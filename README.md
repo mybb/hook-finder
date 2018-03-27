@@ -23,4 +23,4 @@ You run the tool as follows:
 hook-finder -i /pat/to/mybb/root -o /path/to/hooks.html
 ```
 
-The tool will then scan all of the PHP files in the specified directory and locate any hoks which will then be written to the specified file.
+The tool will then scan all of the PHP files in the specified directory and locate all available hooks which will then be written to the specified file.
